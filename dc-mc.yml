@@ -16,7 +16,7 @@ services:
       MAX_PLAYERS: "12"
       VIEW_DISTANCE: "32"
       OPS: "thiagomadpin"
-      SEED" "thiagomadpin"
+      SEED: "thiagomadpin"
     restart: always
 volumes:
   mc: {}
